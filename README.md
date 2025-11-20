@@ -1,8 +1,8 @@
-Full stack Employee Management System using ReactJS and SpringBoot.
+Full stack development Employee Management System using ReactJS and SpringBoot.
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can run: 
 
 ### `npm start`
 
